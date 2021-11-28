@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "Z1SOrUjrRQH+KOiHOiCj65aWYaDtwF5Q8PTSAGl/2aAvVN/dUhktL4aO9c2IXPnBxiKE6EcfN1vClt3DThVteg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fpt\\Downloads\\BTThucHanh5-master (1)\\BTThucHanh5-master\\ProjectBaiThi\\ProjectBaiThi.csproj",
+  "projectFilePath": "C:\\Users\\fpt\\Downloads\\BTThucHanh5-master (1)\\BTThucHanh5-master\Lab5\Lab5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fpt\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\fpt\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
