@@ -1,0 +1,148 @@
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.Views.dll
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.Views.pdb
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorAssemblyInfo.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\staticwebassets\Lab5.StaticWebAssets.Manifest.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\staticwebassets\Lab5.StaticWebAssets.xml
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab5.styles.css
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.TagHelpers.input.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.TagHelpers.output.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorCoreGenerate.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.Views.pdb
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CopyComplete
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\CanHo\ThemCanHo.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\LietKeNhanVien.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\ListNhanVienByTime.cshtml.g.cs
+C:\Users\DELL\source\repos\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\QuanLyNhanVien.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.Views.dll
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.Views.pdb
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.AssemblyReference.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CoreCompileInputs.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.MvcApplicationPartsAssemblyInfo.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorAssemblyInfo.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorAssemblyInfo.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\staticwebassets\Lab5.StaticWebAssets.Manifest.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\staticwebassets\Lab5.StaticWebAssets.xml
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab5.styles.css
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.TagHelpers.input.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.TagHelpers.output.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorCoreGenerate.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\CanHo\ThemCanHo.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\LietKeNhanVien.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\ListNhanVienByTime.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\QuanLyNhanVien.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorTargetAssemblyInfo.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorTargetAssemblyInfo.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.Views.pdb
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CopyComplete
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.genruntimeconfig.cache
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\ListSelectedOfNhanVien.cshtml.g.cs
+F:\Học Tập\Xây dựng HTTT trên các framework\Lab5\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\ViewDetail.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\Lab5.Views.dll
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\Lab5.Views.pdb
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.AssemblyReference.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorAssemblyInfo.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorAssemblyInfo.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\staticwebassets\Lab5.StaticWebAssets.Manifest.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\staticwebassets\Lab5.StaticWebAssets.xml
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab5.styles.css
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.TagHelpers.input.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.TagHelpers.output.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorCoreGenerate.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\CanHo\ThemCanHo.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\LietKeNhanVien.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\ListNhanVienByTime.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\ListSelectedOfNhanVien.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\QuanLyNhanVien.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\NhanVien\ViewDetail.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorTargetAssemblyInfo.cache
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.RazorTargetAssemblyInfo.cs
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.Views.pdb
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.csproj.CopyComplete
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
+C:\Users\fpt\Downloads\BTThucHanh5-master (1)\BTThucHanh5-master\Lab5\obj\Debug\netcoreapp3.1\Lab5.genruntimeconfig.cache
