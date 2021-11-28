@@ -1,0 +1,10 @@
+﻿@model NV_BTModel
+
+<form action="/NhanVien/UpdateNV_BT" method="post">
+
+    <label>Mã thiết bị:</label><input type="text" name="MaThietBi" value="@Model.MaThietBi" /><br />
+    <label>Mã căn hộ:</label><input type="text" name="MaCanHo" value="@Model.MaCanHo" /><br />
+    <label>Lần sửa:</label><input type="number" name="LanThu" value="@Model.LanThu" /><br />
+    <label>Ngày sửa:</label><input type="datetime" name="NgayBaoTri" value="@Model.NgayBaoTri" /><br />
+    <input type="submit" value="Update" name="submit" id="Update" />
+</form>

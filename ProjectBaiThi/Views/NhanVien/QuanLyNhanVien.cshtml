@@ -1,0 +1,11 @@
+﻿@model List<Lab5.Models.NhanVienModel>
+
+<form action="/NhanVien/ListSelectedOfNhanVien" method="post">
+    <select name="MaNhanVien" id="MaNhanVien">
+        @foreach (var item in Model)
+        {
+            <option value="@item.MaNhanVien">@item.TenNhanVien </option>
+        }
+    </select><br>
+    <input type="submit" value="Liệt Kê" name="submit" id="Lietke" />
+</form>

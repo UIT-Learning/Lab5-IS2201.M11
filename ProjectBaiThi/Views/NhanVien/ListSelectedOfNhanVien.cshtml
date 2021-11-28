@@ -1,0 +1,45 @@
+﻿@model List<NV_BTModel>
+<h2>Danh sách thiết bị của nhân viên được chọn sửa</h2>
+<table border="1">
+    <thead font-weight="bold">
+        <tr>
+            <th>Mã thiết bị</th>
+            <th>Mã căn hộ</th>
+            <th>Lần thứ</th>
+            <th>Ngày bảo trì</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td name="MaThietBi">@item.MaThietBi</td>
+                <td name="MaCanHo">@item.MaCanHo</td>
+                <td name="LanThu">@item.LanThu</td>
+                <td name="NgayBaoTri">@item.NgayBaoTri</td>
+                <td>
+                    @Html.ActionLink(
+                            "Delete",
+                            "Delete",
+                            "NhanVien",
+                            new{manhanvien = @item.MaNhanVien,
+                                mathietbi = @item.MaThietBi,
+                                macanho = @item.MaCanHo,
+                                lanthu = @item.LanThu
+                            })
+                    @Html.ActionLink(
+                            "View",
+                            "ViewDetail",
+                            "NhanVien",
+                            new{manhanvien = @item.MaNhanVien,
+                                mathietbi = @item.MaThietBi,
+                                macanho = @item.MaCanHo,
+                                lanthu = @item.LanThu
+                            })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
